@@ -1,15 +1,17 @@
-# Password-Manager
+# Simple-Password-Manager
 
-An easy to use password manager made with SQLite and uses SHA3-512 based login and AES-256 based encryption.
+An easy to use password manager made with SQLite and uses SHA-512 based login and AES-256 based encryption.
 
 ## TODO
 
-- [ ] Make the Backend
-    - [ ] Make the Encryption module which deals with Encryption and hashing.
-    - [ ] Make the Working module which deals with SQLite based queries.
+- [x] Make the Backend
+    - [x] Make the Encryption module which deals with Encryption and hashing.
+    - [x] Make the Working module which deals with SQLite based queries.
 - [ ] Make the Command-line based frontend
     - [ ] Make the Bare minimum frontend.
     - [ ] Use getpass to scan passwords.
+- [ ] PyQt5 GUI front in version 2
+- [ ] PostgreSQL in version 3
 
 ## Run 
 
@@ -20,3 +22,8 @@ An easy to use password manager made with SQLite and uses SHA3-512 based login a
 - For Linux
 
         ./main.sh
+
+## Notes 
+
+- If database exists, then run working.
+- Else create database and store primary passwords.

@@ -1,0 +1,3 @@
+pycryptodome
+pysqlite3
+clipboard
