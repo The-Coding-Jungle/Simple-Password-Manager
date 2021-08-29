@@ -1,3 +1,8 @@
+pybase64
 pycryptodome
 pysqlite3
 clipboard
+pyqt5
+qt-material
+darkdetect
+typing
