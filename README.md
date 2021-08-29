@@ -10,8 +10,8 @@ An easy to use password manager made with SQLite and uses SHA-512 based login an
 - [x] Make the Command-line based frontend
     - [x] Make the Bare minimum frontend.
     - [x] Use getpass to scan passwords.
-- [ ] PyQt5 GUI front in version 2
-    - [ ] Make GUI working
+- [x] PyQt5 GUI front in version 2
+    - [x] Make GUI working
         - [x] Make a working GUI:
         - [x] Do the bug fixes
         - [x] Add theme menu: Light theme and dark theme options
