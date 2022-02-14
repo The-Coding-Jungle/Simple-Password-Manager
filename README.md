@@ -19,7 +19,10 @@ An easy to use password manager made with SQLite and uses SHA-512 based login an
         - [x] Add system preferred theme
         - [x] Do the bug fixes
     - [x] Make GUI setup
-- [ ] PostgreSQL in version 3
+
+## UML Diagram of GUI
+
+<img src="img/1.jpeg">
 
 ## Run 
 
